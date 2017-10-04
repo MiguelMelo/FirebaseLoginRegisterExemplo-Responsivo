@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754633053651",
+    "firebase_url": "https://fir-loginregisterexemplo.firebaseio.com",
+    "project_id": "fir-loginregisterexemplo",
+    "storage_bucket": "fir-loginregisterexemplo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754633053651:android:1ac9f90a4f67c574",
+        "android_client_info": {
+          "package_name": "com.apps.avalon.fireloginregisterexemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754633053651-9perpl2a9muld5c8rvgn63sq4s9nea8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.avalon.fireloginregisterexemplo",
+            "certificate_hash": "505660cb8e0e3f4cc030c1671461da991817b607"
+          }
+        },
+        {
+          "client_id": "754633053651-vvvjr2257pf84l3jebnamvvfrb9eea24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyqGhQ_GFADfG34HE7yiwYJJDsx9PsAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754633053651-vvvjr2257pf84l3jebnamvvfrb9eea24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
